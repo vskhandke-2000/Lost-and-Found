@@ -1,7 +1,7 @@
 # Lost-and-Found
 Project for Developing a Website for registration of Lost and Found Items in College Campus
 
-# After Downloading the rar files from this link follow these steps:
+# After Downloading the .rar files from this link follow these steps:
 https://drive.google.com/file/d/1Czgh-4GQqtYxAvauGENhFgWZTZ-TAdp4/view?usp=sharing
 
 You need an access for this source code.
